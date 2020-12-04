@@ -12,6 +12,8 @@ public class AkunActivity extends AppCompatActivity {
     Button btnEdit,btnBack;
     EditText inputNama,inputEmail;
 
+    //give tytyd
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

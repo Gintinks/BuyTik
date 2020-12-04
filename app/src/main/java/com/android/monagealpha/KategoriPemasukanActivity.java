@@ -28,6 +28,7 @@ public class KategoriPemasukanActivity extends AppCompatActivity  {
         btnLainnya = findViewById(R.id.btnLainnya);
         btnPengembalian = findViewById(R.id.btnPengembalian);
         btnBack= findViewById(R.id.btnBack);
+        //coba
         final DatabaseReference Rootref = FirebaseDatabase.getInstance().getReference();
         btnBack.setOnClickListener(new View.OnClickListener() {
             @Override
